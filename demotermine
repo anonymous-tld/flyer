@@ -1,5 +1,5 @@
 📣 DEMO-TERMINE und Spaziergänge
-Stand: 19.05.2020 12:41
+Stand: 19.05.2020 12:43
 (unvollständige Auflistung) Quelle: https://demo.stream/termine 
 
 Neue Termine sendet ihr in der Telegramgruppe: https://t.me/demostreamgruppe
@@ -24,6 +24,7 @@ DE ▶️ Rendsburg, Schloßplatz, (Kerze aufstellen), 🕛 19.00
 DE ▶️ Roth, Marktplatz, (Meditation), 🕝 18.00
 [edv_ende_tag]
 
+[edv_anfang_fortlaufend]
 🔴 Mittwoch, 20. Mai
 DE ▶️ Nürnberg, Lorenzkirche, (Meditationen), 🕛 19.00
 DE ▶️ Nürnberg, Lorenzkirche, (Spaziergang zur Kaiserburg), 🕛 19.30
@@ -368,9 +369,9 @@ DE ▶️ Nürnberg, Königstor, (Spaziergang), 🕖 19.00
 🔴 Montag, 22. Juni
 DE ▶️ München, Odeonsplatz, (Meditation), 🕝 16.45
 DE ▶️ München, Wiese/Staatskanzlei unter Hofgarten, (Meditation), 🕝 18.30
+[edv_ende_fortlaufend]
 
-
-[start_edv_woechentlich]
+[edv_anfang_woechentlich]
 ➕ Wöchentliche Termine
 🔴 Montag
 DE ▶️ Altena/58762, Am Markaner 🕝 19.00
@@ -616,7 +617,7 @@ DE ▶️ Rendsburg Schloßplatz (Kerze aufstellen) 🕛 19.00
 DE ▶️ Saarbrücken, Deutsch-Französischer- Garten Eingang Calypso/Casino (Spaziergang) 🕛 16.00
 DE ▶️ Siegburg, Markt am Brunnen (Demo) 🕛 16.00
 DE ▶️ Zwickau, Hauptmarkt 🕛 16.00
-[ende_edv_woechentlich]
+[edv_ende_woechentlich]
 
 (ohne Gewähr - kein Aufruf)
 🔵 Sendet Eure Demotermine an @demostreamgruppe / https://t.me/demostreamgruppe
