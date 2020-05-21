@@ -21,23 +21,17 @@ https://t.me/anonymousgermany oder @anonymousgermany
 
 NEUE DATENBANK UNTER: https://demo.terminkalender.top + + +
 
+[edv_anfang_tag]
+
+➕ Tägliche Termine
 🔴 Donnerstag, 21. Mai
 UNTER: https://demo.terminkalender.top
 
+[edv_ende_tag]
+
 !! OBEN IN DB ERFASST !!
 
-🔴 Mittwoch, 17. Juni
-DE ▶️ Berlin, 00000, Reichstagswiese, (Meditation), 🕛 10.00
-DE ▶️ Berlin, 00000, Reichstagswiese, (Yoga), 🕛 11.00
-DE ▶️ Berlin, 00000, Reichstagswiese, (Gymnastik), 🕛 12.00
-DE ▶️ Berlin, 00000, Reichstagswiese, (Eis Essen), 🕛 13.00
-DE ▶️ Berlin, 00000, Reichstagswiese, (Natur genießen), 🕛 14.00
-DE ▶️ Berlin, 00000, Reichstagswiese, (Angeln), 🕛 15.00
-DE ▶️ Berlin, 00000, Reichstagswiese, (Tauchen), 🕛 16.00
-DE ▶️ Berlin, 00000, Reichstagswiese, (Sport), 🕛 17.00
-DE ▶️ Berlin, 00000, Bundeskanzleramt, (Demo/AfD/MerkelMussWeg-Mittwoch), 🕝 18.00
-DE ▶️ Dortmund, 00000, Friedensplatz, (Spaziergang), 🕝 18.00
-DE ▶️ Nürnberg, 00000, Königstor, (Spaziergang), 🕖 19.00
+[edv_anfang_fortlaufend]
 
 🔴 Montag, 22. Juni
 DE ▶️ Bad Neustadt a.d. Saale, 00000, Marktplatz beim Maibaum, (Spaziergang), 🕝 15.30
@@ -49,9 +43,11 @@ DE ▶️ München, 00000, Odeonsplatz, (Meditation), 🕝 16.45
 DE ▶️ München, 00000, Wiese/Staatskanzlei unter Hofgarten, (Meditation), 🕝 18.30
 DE ▶️ Sangerhausen, 00000, Marktplatz, (Spaziergang),  🕛 19.00
 DE ▶️ Weimar, 00000, Theaterplatz, (Spaziergang), 🕝 19.00
+
 [edv_ende_fortlaufend]
 
 [edv_anfang_woechentlich]
+
 ➕ Wöchentliche Termine
 🔴 Montag
 DE ▶️ Altena, 58762, Am Markaner, (-), 🕝 19.00
@@ -312,6 +308,7 @@ DE ▶️ Roding, 93426, Am Esper/Regenreim, (-), 🕛 15.00
 DE ▶️ Saarbrücken, 00000, Deutsch-Französischer- Garten/Eingang Calypso/Casino, (Spaziergang), 🕛 16.00
 DE ▶️ Siegburg, 00000, Markt am Brunnen, (Demo), 🕛 16.00
 DE ▶️ Zwickau, 00000, Hauptmarkt, (-), 🕛 16.00
+
 [edv_ende_woechentlich]
 
 (ohne Gewähr - kein Aufruf)
